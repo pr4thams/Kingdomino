@@ -1,0 +1,7 @@
+The functionality of starting round is only available when 4-player mode is selected. On the gameboard,
+you will find a button called "Start Round". This button begins the initial round of the game. On clicking 
+this button 4 dominos will be displayed (which contains anime character icons for now but will be 
+updated later). Player turns are announced from the top label. After a player selects a domino, that domino
+is reserved and no other player can select it. Icon of king meeple will be updated soon on the claim of a
+domino by a player.
+
